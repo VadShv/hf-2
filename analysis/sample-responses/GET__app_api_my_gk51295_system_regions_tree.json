@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Россия",
+      "active": true,
+      "parent_id": null
+    },
+    {
+      "id": 4265,
+      "name": "Казахстан",
+      "active": true,
+      "parent_id": null
+    },
+    {
+      "id": 4507,
+      "name": "Беларусь",
+      "active": true,
+      "parent_id": null
+    },
+    {
+      "id": 4655,
+      "name": "Украина",
+      "active": true,
+      "parent_id": null
+    },
+    {
+      "id": 6984,
+      "name": "Другие страны",
+      "active": true,
+      "parent_id": null
+    }
+  ],
+  "next_page_cursor": null
+}

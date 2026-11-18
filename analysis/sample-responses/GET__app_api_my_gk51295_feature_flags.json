@@ -1,0 +1,29 @@
+{
+  "toggles": [
+    {
+      "name": "linkedin-provider",
+      "enabled": true,
+      "variant": {
+        "name": "vayne_first",
+        "enabled": true,
+        "payload": {
+          "type": "string",
+          "value": "vayne,cri"
+        }
+      },
+      "impression_data": false,
+      "impressionData": false
+    },
+    {
+      "name": "scheduled_email_edit",
+      "enabled": true,
+      "variant": {
+        "name": "disabled",
+        "enabled": false,
+        "payload": null
+      },
+      "impression_data": false,
+      "impressionData": false
+    }
+  ]
+}

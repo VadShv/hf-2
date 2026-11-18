@@ -1,0 +1,49 @@
+{
+  "show_survey": true,
+  "survey": {
+    "id": 8883,
+    "name": "Оценка рекомендаций по вакансии",
+    "type": "type_rs",
+    "active": true,
+    "created": "2024-10-19 01:08:03",
+    "updated": "2024-10-19 01:08:03",
+    "title": null,
+    "updated_by_id": null,
+    "schema": {
+      "type": "object",
+      "required": [
+        "stars"
+      ],
+      "properties": {
+        "stars": {
+          "type": "number",
+          "title": "Как вам рекомендации?",
+          "maximum": 5,
+          "minimum": 1
+        },
+        "comment": {
+          "type": "string",
+          "title": "Можете дополнить комментарием"
+        }
+      },
+      "additionalProperties": false
+    },
+    "ui_schema": {
+      "stars": {
+        "ui:widget": "RatingWidget",
+        "ui:options": {
+          "label": true
+        }
+      },
+      "comment": {
+        "ui:widget": "textarea"
+      },
+      "ui:order": [
+        "stars",
+        "comment"
+      ]
+    }
+  },
+  "survey_answer": null,
+  "vacancy_recommendations_evaluation": null
+}

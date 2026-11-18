@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": 211573,
+      "auth": 375827,
+      "name": "Календарь Хантфлоу",
+      "freebusy": false,
+      "auth_type": "NATIVE",
+      "data": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "instant",
+      "rule": "offset",
+      "value": "00:03:00"
+    },
+    {
+      "id": "offset15",
+      "rule": "offset",
+      "value": "00:15:00"
+    },
+    {
+      "id": "offset60",
+      "rule": "offset",
+      "value": "01:00:00"
+    },
+    {
+      "id": "daily",
+      "rule": "daily",
+      "value": "18:00:00"
+    },
+    {
+      "id": "disabled",
+      "rule": "disabled",
+      "value": "00:00:00"
+    }
+  ]
+}

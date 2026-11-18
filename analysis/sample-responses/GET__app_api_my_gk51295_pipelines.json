@@ -1,0 +1,1417 @@
+{
+  "items": [
+    {
+      "id": 9766,
+      "account": null,
+      "name": "Desktop+RuPost",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 122900,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122913,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 165062,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122912,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155425,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122911,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122910,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155422,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122909,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 165177,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122908,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 165272,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122907,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155421,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122906,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122905,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122904,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 122903,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 157836,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122902,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122901,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122899,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122898,
+          "account_vacancy_status_group": 9766,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 11321,
+      "account": null,
+      "name": "RuBackup 2.0",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 145587,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 145604,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 179061,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 145603,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 155425,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 145602,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 183214,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 145601,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 145600,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 145599,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 145598,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 155422,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 145597,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 167815,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 145596,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 165177,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 145595,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 165062,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 145594,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 165272,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 145593,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 145592,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 157836,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 145591,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 183072,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 145590,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 145589,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 145588,
+          "account_vacancy_status_group": 11321,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 11348,
+      "account": null,
+      "name": "Астра Облако",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 146026,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 183214,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 146022,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 146027,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 155425,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 146025,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 155421,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 146024,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 146023,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 183087,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 146021,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 146020,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 185751,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 146019,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 167815,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 146018,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 183074,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 146017,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 165062,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 146016,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 146015,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 157836,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 146014,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 146013,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 146012,
+          "account_vacancy_status_group": 11348,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 9874,
+      "account": null,
+      "name": "Брест/СДС",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 124309,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 124310,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124312,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124319,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124318,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 155422,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124317,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 155421,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 124316,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 124315,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124314,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 165272,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 124313,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 124311,
+          "account_vacancy_status_group": 9874,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 9772,
+      "account": null,
+      "name": "ДБОС",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 122990,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 123003,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 165177,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 127942,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 185751,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122991,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122999,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 123008,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 179061,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 123007,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 165062,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 123006,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 155425,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 123005,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 123004,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 167815,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 123002,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 183214,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 123001,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 183074,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 123000,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122998,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 165272,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122997,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 122996,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 157836,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122995,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 183073,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122994,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 183072,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122993,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122992,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122989,
+          "account_vacancy_status_group": 9772,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 9794,
+      "account": null,
+      "name": "ДВИС",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 123286,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 123296,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 123295,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 155421,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 123294,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 123293,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 123292,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 165272,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 123291,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 123290,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 157836,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 123289,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 123288,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 123287,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 123285,
+          "account_vacancy_status_group": 9794,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 8370,
+      "account": null,
+      "name": "Рубэкап - 1 (не рук)",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 103616,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122800,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 183074,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122766,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 183087,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 105157,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 103625,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 165272,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 103624,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 165177,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 103623,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 165062,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 103622,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 103621,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 103620,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 103619,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 155422,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 103618,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 103617,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 103615,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 103614,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 155425,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 103613,
+          "account_vacancy_status_group": 8370,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 8401,
+      "account": null,
+      "name": "Рубэкап - 2 (Руководитель)",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 104091,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 104092,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 104097,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122801,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 183087,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 104102,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 165272,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 104101,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 165177,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 104100,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 165062,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 104099,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 104098,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 104096,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 155422,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 104094,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 104093,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 104090,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 155425,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 104089,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 104088,
+          "account_vacancy_status_group": 8401,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 9765,
+      "account": null,
+      "name": "Рубэкап - 3 (HR+заказчик)",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 122882,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122883,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122885,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122893,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 165062,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122892,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 155425,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122891,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122890,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 155422,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122889,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 183074,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122888,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 183087,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122887,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122886,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 122884,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122881,
+          "account_vacancy_status_group": 9765,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 9849,
+      "account": null,
+      "name": "Рубэкап - 4 (тестовое)",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 123996,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 123997,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124011,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 165062,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 124010,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155425,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 124009,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124008,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155422,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124007,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 167815,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 124006,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 183214,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124005,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155421,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 124004,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 124003,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 183087,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124002,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124001,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 124000,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 157836,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 123999,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 123998,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 123995,
+          "account_vacancy_status_group": 9849,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 9118,
+      "account": null,
+      "name": "Тантор",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 113787,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 165867,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 185751,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 113788,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 113799,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 179061,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 113798,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 165272,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 113797,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 165177,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 113796,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 113795,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 113794,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 113793,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 155422,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 113790,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 113789,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 113786,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 113785,
+          "account_vacancy_status_group": 9118,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 9706,
+      "account": null,
+      "name": "тест 123",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 122088,
+          "account_vacancy_status_group": 9706,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122087,
+          "account_vacancy_status_group": 9706,
+          "account_vacancy_status": 165177,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 122086,
+          "account_vacancy_status_group": 9706,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122085,
+          "account_vacancy_status_group": 9706,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 122082,
+          "account_vacancy_status_group": 9706,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 122081,
+          "account_vacancy_status_group": 9706,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        }
+      ]
+    },
+    {
+      "id": 9875,
+      "account": null,
+      "name": "Увеон",
+      "removed": null,
+      "statuses": [
+        {
+          "id": 124321,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 157835,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 124322,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 155418,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124331,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 155423,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124330,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 155422,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124329,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 155421,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 124328,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 155420,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 124327,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 155419,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124326,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 165272,
+          "stay_duration": 14,
+          "removed": null
+        },
+        {
+          "id": 124325,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 155424,
+          "stay_duration": 7,
+          "removed": null
+        },
+        {
+          "id": 124324,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 155417,
+          "stay_duration": 5,
+          "removed": null
+        },
+        {
+          "id": 124323,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 155426,
+          "stay_duration": null,
+          "removed": null
+        },
+        {
+          "id": 124320,
+          "account_vacancy_status_group": 9875,
+          "account_vacancy_status": 164057,
+          "stay_duration": 5,
+          "removed": null
+        }
+      ]
+    }
+  ]
+}

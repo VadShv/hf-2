@@ -1,0 +1,341 @@
+{
+  "items": [
+    {
+      "id": 229958,
+      "name": "Административно-управленческий персонал",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab5ad8aa1a6c87a25f4d",
+      "available": true
+    },
+    {
+      "id": 229963,
+      "name": "Дирекция по персоналу",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab5ad8aa1a6c87a25f77",
+      "available": true
+    },
+    {
+      "id": 229970,
+      "name": "Дирекция по работе с партнёрами",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab5ad8aa1a6c87a25f95",
+      "available": true
+    },
+    {
+      "id": 229980,
+      "name": "Административно-хозяйственное управление",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab5cd8aa1a6c87a26079",
+      "available": true
+    },
+    {
+      "id": 229985,
+      "name": "Дирекция по развитию бизнеса",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab5cd8aa1a6c87a260cd",
+      "available": true
+    },
+    {
+      "id": 230028,
+      "name": "Дирекция внедрения и сопровождения",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab60d8aa1a6c87a263e9",
+      "available": true
+    },
+    {
+      "id": 230126,
+      "name": "Дирекция по продажам",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab77d8aa1a6c87a273df",
+      "available": true
+    },
+    {
+      "id": 230135,
+      "name": "Дирекция по правовым вопросам",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab79d8aa1a6c87a2753f",
+      "available": true
+    },
+    {
+      "id": 230139,
+      "name": "Дирекция маркетинга",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab7ed8aa1a6c87a27825",
+      "available": true
+    },
+    {
+      "id": 230149,
+      "name": "Дирекция безопасности и режима",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab7ed8aa1a6c87a278a7",
+      "available": true
+    },
+    {
+      "id": 230151,
+      "name": "Дирекция цифровых сервисов",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab95d8aa1a6c87a287e1",
+      "available": true
+    },
+    {
+      "id": 230160,
+      "name": "Департамент разработки",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab96d8aa1a6c87a28827",
+      "available": true
+    },
+    {
+      "id": 230181,
+      "name": "Дирекция базовой операционной системы",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516ab98d8aa1a6c87a289e9",
+      "available": true
+    },
+    {
+      "id": 230199,
+      "name": "Техническая дирекция",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516aba6d8aa1a6c87a292d5",
+      "available": true
+    },
+    {
+      "id": 230207,
+      "name": "Дирекция виртуализации и облачных сервисов",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516aba7d8aa1a6c87a29387",
+      "available": true
+    },
+    {
+      "id": 230221,
+      "name": "Дирекция обеспечения качества и информационной безопасности",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516aba7d8aa1a6c87a29415",
+      "available": true
+    },
+    {
+      "id": 230231,
+      "name": "Дирекция консалтинга",
+      "active": false,
+      "parent_id": null,
+      "foreign": "6516abd8d8aa1a6c87a2b481",
+      "available": true
+    },
+    {
+      "id": 230236,
+      "name": "Дирекция серверного ПО",
+      "active": false,
+      "parent_id": null,
+      "foreign": "651beb0f53e6e2678c692aaa",
+      "available": true
+    },
+    {
+      "id": 230254,
+      "name": "Департамент разработки СУБД",
+      "active": false,
+      "parent_id": null,
+      "foreign": "651beb3253e6e2678c6941b8",
+      "available": true
+    },
+    {
+      "id": 225957,
+      "name": "Дирекция обеспечения качества и информационной безопасности",
+      "active": false,
+      "parent_id": null,
+      "foreign": "80929e96-e188-4f4b-841d-edfe66f0e482",
+      "available": true
+    },
+    {
+      "id": 227720,
+      "name": "ООО \"Астра Консалтинг\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "e7128a95-f95e-45a2-a080-efb96facdde7",
+      "available": true
+    },
+    {
+      "id": 225113,
+      "name": "ООО \"Рубэкап\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "8970a50e-105e-471d-8a57-46f83d47fa51",
+      "available": true
+    },
+    {
+      "id": 224990,
+      "name": "ООО \"РуПост\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "ed01670a-4b43-4182-8ad4-63255fd7b1ed",
+      "available": true
+    },
+    {
+      "id": 225003,
+      "name": "ООО «РусБИТех-Астра»",
+      "active": false,
+      "parent_id": null,
+      "foreign": "e79f542b-1d60-4264-82cf-e8306dd56a0f",
+      "available": true
+    },
+    {
+      "id": 224987,
+      "name": "ООО \"Тантор Лабс\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "3b892b11-90ee-4b99-8989-f70781ca493e",
+      "available": true
+    },
+    {
+      "id": 225001,
+      "name": "ООО \"УВЕОН-Облачные технологии\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "e13a253f-71d0-4e87-8c99-6ef754feab90",
+      "available": true
+    },
+    {
+      "id": 230837,
+      "name": "ООО \"РусБИТех-Астра\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "123455",
+      "available": true
+    },
+    {
+      "id": 248761,
+      "name": "Бро софтвер",
+      "active": true,
+      "parent_id": null,
+      "foreign": "5986d147-45a5-4a19-bf06-b8392a6daec7",
+      "available": true
+    },
+    {
+      "id": 252345,
+      "name": "Мониторинг компаний-доноров",
+      "active": false,
+      "parent_id": null,
+      "foreign": "c4218123-727b-4f45-a598-4a18d90eab75",
+      "available": true
+    },
+    {
+      "id": 256476,
+      "name": "ООО \"РЕСОЛЮТ\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "a89d8007-ce8c-4763-86cc-6a3210ac7c57",
+      "available": true
+    },
+    {
+      "id": 286094,
+      "name": "ООО \"Астра Облако\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "af37574c-7150-4908-94d4-fc8c17afdc98",
+      "available": true
+    },
+    {
+      "id": 291103,
+      "name": "ООО \"Тантор ДиЭлЭйч\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "8a491432-efe3-4230-aca8-354bdde4f168",
+      "available": true
+    },
+    {
+      "id": 306848,
+      "name": "ООО \"ИксДата\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "c165a6af-8bcf-4201-aa99-2f9dd6a5d9a2",
+      "available": true
+    },
+    {
+      "id": 319054,
+      "name": "ООО \"Платформа Боцман\"",
+      "active": true,
+      "parent_id": null,
+      "foreign": "4d9b3466-7bf0-4578-a18e-9c45d8a371fd",
+      "available": true
+    },
+    {
+      "id": 321970,
+      "name": "Коммерческое управление ",
+      "active": false,
+      "parent_id": null,
+      "foreign": "1e073592-eda6-4920-8998-6b6c2798ea9f",
+      "available": true
+    },
+    {
+      "id": 323956,
+      "name": "Операционное управление",
+      "active": true,
+      "parent_id": null,
+      "foreign": "07677c3a-2482-43ad-8b66-12c55fd69b8a",
+      "available": true
+    },
+    {
+      "id": 325261,
+      "name": "Департамент информационной безопасности",
+      "active": true,
+      "parent_id": null,
+      "foreign": "d136cba7-f974-4700-8742-c5de1d8ce7e7",
+      "available": true
+    },
+    {
+      "id": 325262,
+      "name": "Отдел тестирования безопасности ПО",
+      "active": true,
+      "parent_id": null,
+      "foreign": "46677138-4172-4ada-8782-71a31b0de0bb",
+      "available": true
+    },
+    {
+      "id": 384915,
+      "name": "Департамент образования",
+      "active": true,
+      "parent_id": null,
+      "foreign": "fd87fc75-647c-4e94-9b34-292db21ce15c",
+      "available": true
+    },
+    {
+      "id": 400225,
+      "name": "Астра Академия АНО",
+      "active": true,
+      "parent_id": null,
+      "foreign": "fcf50cb5-1722-40f1-a068-69d88be1861a",
+      "available": true
+    },
+    {
+      "id": 400226,
+      "name": "Департамент образования (АНО Астра Академ)",
+      "active": true,
+      "parent_id": null,
+      "foreign": "2c76eff6-6ca5-44d2-bece-fa7ea601b1b6",
+      "available": true
+    },
+    {
+      "id": 405519,
+      "name": "Отдел конструирования технологий защиты информации (Деп.науки Головной НТЦ ИБ)",
+      "active": true,
+      "parent_id": null,
+      "foreign": "6814e233-1f90-4120-bac7-3e4cb614e4d5",
+      "available": true
+    }
+  ],
+  "next_page_cursor": null
+}

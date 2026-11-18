@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": 446102,
+      "account_calendar": 211573,
+      "foreign": "vserzhantov@astralinux.ru",
+      "name": "Хантфлоу",
+      "primary": true,
+      "hidden": false,
+      "deleted": false,
+      "selected": true,
+      "access_role": "owner",
+      "etag": null,
+      "sync_state": null,
+      "data": null
+    }
+  ]
+}

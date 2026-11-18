@@ -1,0 +1,70 @@
+{
+  "id": 89307311,
+  "account": 186386,
+  "photo": 121328543,
+  "has_photo": true,
+  "photo_version": 0,
+  "account_source": 445994,
+  "first_name": "Евгений",
+  "last_name": "Ковалевский",
+  "middle_name": "Валерьевич",
+  "birthday": "1981-01-07",
+  "position": "Кey Account Manager, вендор Гравитон",
+  "company": "3LOGIC GROUP",
+  "money": "",
+  "phone": "+79885403501",
+  "email": "kovalevsky.evgeny@mail.ru",
+  "skype": null,
+  "created": "2026-10-02 12:38:54",
+  "questionary": null,
+  "removed": null,
+  "source": null,
+  "version": 8,
+  "wiped": null,
+  "links": [
+    {
+      "id": 85099575,
+      "va_id": 85099575,
+      "applicant": 89307311,
+      "status": 155417,
+      "changed": "2026-10-02 12:39:18",
+      "updated": "2026-10-02 12:39:18",
+      "rejection_reason": null,
+      "vacancy_id": 4288523,
+      "account_vacancy_status_group": null,
+      "vacancy_status": "OPEN",
+      "parent_vacancy_id": null,
+      "multiple": false,
+      "vacancy_created": "2026-07-13 10:30:52",
+      "vacancy_last_frame_begin": "2026-08-24 10:28:45",
+      "is_in_last_frame": true,
+      "state_duration": 5,
+      "is_splitted_child": false,
+      "is_child_vacancy": false,
+      "work_days_in_work": 32
+    }
+  ],
+  "locked_links": [],
+  "formatted_phone": "+7 988 540-35-01",
+  "external": [
+    {
+      "id": 89222133,
+      "applicant": 89307311,
+      "auth_type": "HH",
+      "updated": "2026-10-02 12:38:54",
+      "account_source": 445994,
+      "name": "HeadHunter"
+    }
+  ],
+  "social": [],
+  "site": [],
+  "agreement": {
+    "show": true,
+    "state": null,
+    "confirmation_limit": 14,
+    "warning": true,
+    "applicant": 89307311
+  },
+  "doubles": [],
+  "tags": []
+}

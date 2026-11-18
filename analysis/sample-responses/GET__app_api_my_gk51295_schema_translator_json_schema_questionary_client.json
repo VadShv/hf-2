@@ -1,0 +1,35 @@
+{
+  "schema": {
+    "title": "",
+    "type": "object",
+    "required": [],
+    "properties": {
+      "toolkit": {
+        "title": "Инструмент",
+        "type": "number",
+        "isNotEmpty": false,
+        "nullable": true,
+        "metadata": {
+          "search_filter": true,
+          "profile_visibility": "owner_manager_watcher",
+          "is_archived": false
+        }
+      }
+    }
+  },
+  "ui_schema": {
+    "ui:order": [
+      "toolkit"
+    ],
+    "toolkit": {
+      "ui:options": {
+        "required": false,
+        "dictionaryId": "toolkit",
+        "name": "toolkit"
+      },
+      "ui:widget": "PartialDictionaryWidget"
+    }
+  },
+  "form_data": {},
+  "version": 0
+}

@@ -1,0 +1,1 @@
+{"mode":"NATIVE","providers":[{"id":"YANDEX","name":"Yandex","type":"OAUTH2","url":"https://huntflow.ru/login/oauth2/yandex"},{"id":"GOOGLE","name":"Google","type":"OAUTH2","url":"https://huntflow.ru/login/oauth2/google"},{"id":"HH","name":"HeadHunter","type":"OAUTH2","url":"https://huntflow.ru/login/oauth2/hh"}]}

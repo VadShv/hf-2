@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "id": 21324146,
+      "state": "REOPEN",
+      "created": "2026-08-24 10:28:45",
+      "account_vacancy_hold_reason": null,
+      "data": null,
+      "account_vacancy_close_reason": null,
+      "account_data": {
+        "id": 193363,
+        "name": "Курина Анастасия",
+        "email": "akurina@astralinux.ru",
+        "has_photo": true,
+        "photo_version": 0
+      }
+    },
+    {
+      "id": 21319746,
+      "state": "CLOSED",
+      "created": "2026-08-21 17:27:04",
+      "account_vacancy_hold_reason": null,
+      "data": null,
+      "account_vacancy_close_reason": 24384,
+      "account_data": {
+        "id": 193363,
+        "name": "Курина Анастасия",
+        "email": "akurina@astralinux.ru",
+        "has_photo": true,
+        "photo_version": 0
+      }
+    },
+    {
+      "id": 20971245,
+      "state": "OPEN",
+      "created": "2026-07-13 10:30:52",
+      "account_vacancy_hold_reason": null,
+      "data": null,
+      "account_vacancy_close_reason": null,
+      "account_data": {
+        "id": 193363,
+        "name": "Курина Анастасия",
+        "email": "akurina@astralinux.ru",
+        "has_photo": true,
+        "photo_version": 0
+      }
+    },
+    {
+      "id": 20971244,
+      "state": "CREATED",
+      "created": "2026-07-13 10:30:52",
+      "account_vacancy_hold_reason": null,
+      "data": {
+        "body": null,
+        "position": "CCO для Владимира",
+        "company": null,
+        "money": null,
+        "deadline": null,
+        "applicants_to_hire": 1,
+        "hidden": false,
+        "priority": 1,
+        "account_division": 230837,
+        "account_region": null,
+        "requirements": null,
+        "conditions": null,
+        "account_vacancy_status_group": null,
+        "ZvnSp0DzeV2M_oRcPeNd0": "Уровень 1 (базовый)",
+        "CfD52-1jxbu6FOvr8vXt4": null,
+        "qvvF_l_o_J0Q6JofRip7T": null,
+        "r6uyveI02xT8Wm1EFmFMC": null,
+        "L9bd_Ct0p2dEdr7hKXaNl": null,
+        "BaOG4Yf-TpYT5gNXLccAJ": null,
+        "8Xdn6anq3PtLqnyZLKeXL": null,
+        "-9fPLBNNFwKI82mMUYsg9": null,
+        "SP1IzlXySB0RqVm9s0jja": null,
+        "khwmoDU9gy9h1vkRc2YBZ": null,
+        "ephaojaXy6pfuVckci-FR": null,
+        "_dH9kUGLp2sRLxfHG72ka": null,
+        "7MLjNDVZcTk9nFhLnVG0o": null,
+        "9ohAAhxiRzSqh2Y55la8S": null,
+        "ZdYcFf25hcOgqCOrzzqwV": null
+      },
+      "account_vacancy_close_reason": null,
+      "account_data": {
+        "id": 193363,
+        "name": "Курина Анастасия",
+        "email": "akurina@astralinux.ru",
+        "has_photo": true,
+        "photo_version": 0
+      }
+    }
+  ],
+  "page": 1,
+  "count": 5,
+  "total": 1
+}

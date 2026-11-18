@@ -1,0 +1,14 @@
+{
+  "structure_type": "with_folders",
+  "setting_options": {
+    "sorting": [
+      "alphabet"
+    ]
+  },
+  "settings": {
+    "sorting": "alphabet"
+  },
+  "id": "rejection",
+  "code": "rejection",
+  "used_in_available_on": false
+}

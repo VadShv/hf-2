@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": 1716496,
+      "name": "C-level / Руководитель бизнес-юнита",
+      "active": true,
+      "parent_id": null,
+      "meta": null
+    },
+    {
+      "id": 1716492,
+      "name": "Junior / Стажер",
+      "active": true,
+      "parent_id": null,
+      "meta": null
+    },
+    {
+      "id": 1716495,
+      "name": "Lead / Руководитель подразделения",
+      "active": true,
+      "parent_id": null,
+      "meta": null
+    },
+    {
+      "id": 1716493,
+      "name": "Middle / Специалист ",
+      "active": true,
+      "parent_id": null,
+      "meta": null
+    },
+    {
+      "id": 1716494,
+      "name": "Senior / Эксперт ",
+      "active": true,
+      "parent_id": null,
+      "meta": null
+    }
+  ],
+  "next_page_cursor": null
+}

@@ -1,0 +1,952 @@
+[
+  {
+    "method": "GET",
+    "path": "/app/api/account/calendar",
+    "count": 77,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/account/calendar"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/account/email",
+    "count": 32,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/account/email"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/account/tariffs.js",
+    "count": 81,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/account/tariffs.js"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/dict/search/fields",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/dict/search/fields"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/dict/search/operators",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/dict/search/operators"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/dict/template/variables",
+    "count": 81,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/dict/template/variables"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/dict/timezones",
+    "count": 81,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/dict/timezones"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/account-events.js",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/account-events.js"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/account/event",
+    "count": 9,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/account/event"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/account/member",
+    "count": 79,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/account/member"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/account/offer",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/account/offer"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/account/vacancy_external",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/account/vacancy_external"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/account/vacancy_request/{id}/requests/exist",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/account/vacancy_request/15210/requests/exist"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/app_init_data.js",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/app_init_data.js"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicant/status",
+    "count": 29,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/applicant/status"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicant/{id}",
+    "count": 24,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/applicant/89307311"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicant/{id}/agreement_request/status",
+    "count": 2,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/applicant/89307311/agreement_request/status"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicant/{id}/external/{id}",
+    "count": 6,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/applicant/89307311/external/89222133"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicant/{id}/log",
+    "count": 10,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/applicant/89307311/log"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicant/{id}/not_doubles_count",
+    "count": 4,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/applicant/89307311/not_doubles_count"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicant/{id}/questionary",
+    "count": 10,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/applicant/89307311/questionary"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicants",
+    "count": 77,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/applicants"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicants/count",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/applicants/count"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicants/responses/counters",
+    "count": 49,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/applicants/responses/counters"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/applicants/status/stats",
+    "count": 82,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/applicants/status/stats"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/calendar",
+    "count": 4,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/calendar"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/calendar/event",
+    "count": 10,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/calendar/event"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/colleague",
+    "count": 2,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/colleague"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/colleague/count",
+    "count": 83,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/colleague/count"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/dashboard/recruiters",
+    "count": 5,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/dashboard/recruiters"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/dictionary/urovni-pozitsii/list",
+    "count": 2,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/dictionary/urovni-pozitsii/list"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/dictionary/urovni-pozitsii/struct",
+    "count": 12,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/dictionary/urovni-pozitsii/struct"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/elixir_init",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/elixir_init"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/feature-flags",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/feature-flags"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/feature-flags.js",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/feature-flags.js"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/full_vacancy/{id}",
+    "count": 2,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/full_vacancy/4288523"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/im/template",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/im/template"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/integrations",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/integrations"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/interview_types",
+    "count": 3,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/interview_types"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/license-info.js",
+    "count": 81,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/license-info.js"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/license/info",
+    "count": 83,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/license/info"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/mail/template",
+    "count": 3,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/mail/template"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/notify",
+    "count": 2,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/notify"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/notify_rules",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/notify_rules"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/organization",
+    "count": 2,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/organization"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/permissions.js",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/permissions.js"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/pipelines",
+    "count": 79,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/pipelines"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/production-calendar/until-new-year",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/production-calendar/until-new-year"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/reactions",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/reactions"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/recommendation/{id}",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/recommendation/4288523"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/recommendations/{id}/regions",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/recommendations/4288523/regions"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/recommendations/{id}/top_regions",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/recommendations/4288523/top_regions"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/schema-translator/json_schema/questionary/client",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/schema-translator/json_schema/questionary/client"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/schema-translator/json_schema/vacancy_request/client",
+    "count": 164,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/schema-translator/json_schema/vacancy_request/client"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/search/vacancies",
+    "count": 26,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/search/vacancies"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/settings.js",
+    "count": 81,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/settings.js"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/settings/coworker",
+    "count": 3,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/settings/coworker"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/settings/limits",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/settings/limits"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/settings/mandatory_2fa",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/settings/mandatory_2fa"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/settings/timezone",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/settings/timezone"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/sms/template",
+    "count": 6,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/sms/template"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/source",
+    "count": 69,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/source"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/surveys/type_rs/vacancy/{id}/answer",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/surveys/type_rs/vacancy/4288523/answer"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/sync_ignored_domains",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/sync_ignored_domains"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/system-dictionary/division/full_names",
+    "count": 2,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/system-dictionary/division/full_names"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/system-dictionary/division/has_meta",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/system-dictionary/division/has_meta"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/system-dictionary/division/struct",
+    "count": 4,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/system-dictionary/division/struct"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/system-dictionary/division/tree",
+    "count": 2,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/system-dictionary/division/tree"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/system-dictionary/division/update_status",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/system-dictionary/division/update_status"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/system-dictionary/rejection",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/system-dictionary/rejection"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/system-dictionary/rejection/full",
+    "count": 85,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/system-dictionary/rejection/full"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/system/regions/struct",
+    "count": 2,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/system/regions/struct"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/system/regions/tree",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/system/regions/tree"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/tag",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/tag"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/telephony",
+    "count": 82,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/telephony"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/user/emails",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/user/emails"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancies",
+    "count": 77,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancies"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancies/exists",
+    "count": 164,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/vacancies/exists"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancies/{id}",
+    "count": 48,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/vacancies/4288523"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/fields",
+    "count": 7,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/fields"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/status",
+    "count": 80,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/status"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/{id}/access",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/4288523/access"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/{id}/applicant/bulk_task",
+    "count": 1,
+    "statuses": [
+      404
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/4288523/applicant/bulk_task"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/{id}/external",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/4288523/external"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/{id}/external/status",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/4288523/external/status"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/{id}/jobsite_errors",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/4288523/jobsite_errors"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/{id}/logs",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/4288523/logs"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/{id}/notify",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/4288523/notify"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/{id}/quotas",
+    "count": 2,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/4288523/quotas"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy/{id}/stats",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/4288523/stats"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy_request",
+    "count": 82,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy_request"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/my/gk51295/vacancy_request/pending/count",
+    "count": 82,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/vacancy_request/pending/count"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/news_items/",
+    "count": 81,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/news_items/"
+  },
+  {
+    "method": "GET",
+    "path": "/app/api/organizations",
+    "count": 81,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/organizations"
+  },
+  {
+    "method": "POST",
+    "path": "/app/api/my/gk51295/applicants/logs/view/status",
+    "count": 5,
+    "statuses": [
+      200,
+      0
+    ],
+    "sample": "/app/api/my/gk51295/applicants/logs/view/status"
+  },
+  {
+    "method": "POST",
+    "path": "/app/api/my/gk51295/report/preview/funnel",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/report/preview/funnel"
+  },
+  {
+    "method": "POST",
+    "path": "/app/api/my/gk51295/report/preview/funnel_conversion",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/report/preview/funnel_conversion"
+  },
+  {
+    "method": "POST",
+    "path": "/app/api/my/gk51295/report/preview/funnel_recruiter",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/report/preview/funnel_recruiter"
+  },
+  {
+    "method": "POST",
+    "path": "/app/api/my/gk51295/report/preview/funnel_rejection",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/report/preview/funnel_rejection"
+  },
+  {
+    "method": "POST",
+    "path": "/app/api/my/gk51295/report/preview/ttf",
+    "count": 3,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/report/preview/ttf"
+  },
+  {
+    "method": "POST",
+    "path": "/app/api/my/gk51295/report/preview/vacancy/applicants",
+    "count": 1,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/report/preview/vacancy/applicants"
+  },
+  {
+    "method": "POST",
+    "path": "/app/api/my/gk51295/vacancy/external/sync/bulk",
+    "count": 51,
+    "statuses": [
+      200,
+      404
+    ],
+    "sample": "/app/api/my/gk51295/vacancy/external/sync/bulk"
+  },
+  {
+    "method": "POST",
+    "path": "/app/api/my/gk51295/workdays_periods/hired",
+    "count": 9,
+    "statuses": [
+      200
+    ],
+    "sample": "/app/api/my/gk51295/workdays_periods/hired"
+  }
+]

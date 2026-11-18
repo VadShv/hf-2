@@ -1,0 +1,282 @@
+{
+  "items": [
+    {
+      "id": "response",
+      "order": -2,
+      "name": "Отклики",
+      "virtual": true
+    },
+    {
+      "id": "recommendation",
+      "order": -1,
+      "name": "Из базы",
+      "virtual": true
+    },
+    {
+      "id": "workon",
+      "order": 0,
+      "name": "В работе",
+      "virtual": true
+    },
+    {
+      "id": 155417,
+      "account": 186386,
+      "name": "Новые",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 1,
+      "version": 8
+    },
+    {
+      "id": 192525,
+      "account": 186386,
+      "name": "Одобрен Джуном",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 2,
+      "version": 6
+    },
+    {
+      "id": 183072,
+      "account": 186386,
+      "name": "Первичный HR скрининг",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 3,
+      "version": 6
+    },
+    {
+      "id": 155419,
+      "account": 186386,
+      "name": "Оценка резюме заказчиком",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 4,
+      "version": 6
+    },
+    {
+      "id": 155418,
+      "account": 186386,
+      "name": "Информация направлена (первый контакт)",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 5,
+      "version": 6
+    },
+    {
+      "id": 183073,
+      "account": 186386,
+      "name": "Повторный контакт",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 6,
+      "version": 6
+    },
+    {
+      "id": 183087,
+      "account": 186386,
+      "name": "Телефонное интервью (звонок кандидату до полного HR-этапа)",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 7,
+      "version": 6
+    },
+    {
+      "id": 155420,
+      "account": 186386,
+      "name": "Интервью с HR",
+      "type": "user",
+      "stay_duration": 14,
+      "removed": null,
+      "order": 8,
+      "version": 8
+    },
+    {
+      "id": 155421,
+      "account": 186386,
+      "name": "Интервью с заказчиком",
+      "type": "user",
+      "stay_duration": 14,
+      "removed": null,
+      "order": 9,
+      "version": 8
+    },
+    {
+      "id": 183074,
+      "account": 186386,
+      "name": "Интервью HR + заказчик",
+      "type": "user",
+      "stay_duration": 14,
+      "removed": null,
+      "order": 10,
+      "version": 8
+    },
+    {
+      "id": 165177,
+      "account": 186386,
+      "name": "Техническое интервью с заказчиком",
+      "type": "user",
+      "stay_duration": 14,
+      "removed": null,
+      "order": 11,
+      "version": 8
+    },
+    {
+      "id": 157836,
+      "account": 186386,
+      "name": "Кандидат на тестовом задании",
+      "type": "user",
+      "stay_duration": 14,
+      "removed": null,
+      "order": 12,
+      "version": 8
+    },
+    {
+      "id": 167815,
+      "account": 186386,
+      "name": "Тестовое задание выполнено",
+      "type": "user",
+      "stay_duration": 14,
+      "removed": null,
+      "order": 13,
+      "version": 8
+    },
+    {
+      "id": 164057,
+      "account": 186386,
+      "name": "Финальное интервью",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 14,
+      "version": 6
+    },
+    {
+      "id": 185751,
+      "account": 186386,
+      "name": "Проверка СБ",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 15,
+      "version": 6
+    },
+    {
+      "id": 155422,
+      "account": 186386,
+      "name": "Принятие решения",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 16,
+      "version": 6
+    },
+    {
+      "id": 183214,
+      "account": 186386,
+      "name": "Согласование оффера",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 17,
+      "version": 6
+    },
+    {
+      "id": 165272,
+      "account": 186386,
+      "name": "Резерв",
+      "type": "user",
+      "stay_duration": 14,
+      "removed": null,
+      "order": 18,
+      "version": 6
+    },
+    {
+      "id": 155423,
+      "account": 186386,
+      "name": "Выставлен оффер",
+      "type": "user",
+      "stay_duration": 5,
+      "removed": null,
+      "order": 19,
+      "version": 6
+    },
+    {
+      "id": 155424,
+      "account": 186386,
+      "name": "Оффер принят",
+      "type": "hired",
+      "stay_duration": 7,
+      "removed": null,
+      "order": 20,
+      "version": 10
+    },
+    {
+      "id": 157835,
+      "account": 186386,
+      "name": "Выход",
+      "type": "user",
+      "stay_duration": null,
+      "removed": null,
+      "order": 21,
+      "version": 8
+    },
+    {
+      "id": 155425,
+      "account": 186386,
+      "name": "Исп. срок пройден",
+      "type": "user",
+      "stay_duration": null,
+      "removed": null,
+      "order": 22,
+      "version": 4
+    },
+    {
+      "id": 165062,
+      "account": 186386,
+      "name": "Исп. срок не пройден",
+      "type": "user",
+      "stay_duration": null,
+      "removed": null,
+      "order": 23,
+      "version": 4
+    },
+    {
+      "id": 179061,
+      "account": 186386,
+      "name": "Отказ от оффера",
+      "type": "user",
+      "stay_duration": null,
+      "removed": null,
+      "order": 24,
+      "version": 4
+    },
+    {
+      "id": 206289,
+      "account": 186386,
+      "name": "Оформить отказ",
+      "type": "user",
+      "stay_duration": null,
+      "removed": null,
+      "order": 25,
+      "version": 4
+    },
+    {
+      "id": 155426,
+      "account": 186386,
+      "name": "Отказ",
+      "type": "trash",
+      "stay_duration": null,
+      "removed": null,
+      "order": 9999,
+      "version": null
+    }
+  ]
+}

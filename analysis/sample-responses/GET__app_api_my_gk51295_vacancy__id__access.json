@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "id": 252186,
+      "name": "Кристина Башкатова",
+      "email": "kbashkatova@astralinux.ru",
+      "member_type": "manager",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 186385,
+      "name": "Марина Воронина",
+      "email": "mvoronina@astralinux.ru",
+      "member_type": "manager",
+      "has_photo": false,
+      "photo_version": null
+    },
+    {
+      "id": 349541,
+      "name": "Обухова Марина",
+      "email": "mobukhova@astralinux.ru",
+      "member_type": "manager",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 209734,
+      "name": "Подшивалова Ася",
+      "email": "apodshivalova@astralinux.ru",
+      "member_type": "manager",
+      "has_photo": false,
+      "photo_version": null
+    },
+    {
+      "id": 189579,
+      "name": "Проняева Алла",
+      "email": "apronyaeva@astralinux.ru",
+      "member_type": "manager",
+      "has_photo": false,
+      "photo_version": null
+    },
+    {
+      "id": 349031,
+      "name": "Сошникова Светлана",
+      "email": "ssoshnikova@astralinux.ru",
+      "member_type": "manager",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 189581,
+      "name": "Чмыхова Александра",
+      "email": "achmykhova@astralinux.ru",
+      "member_type": "manager",
+      "has_photo": true,
+      "photo_version": 2
+    },
+    {
+      "id": 312063,
+      "name": "Яна Денисова",
+      "email": "idenisova@rubackup.ru",
+      "member_type": "manager",
+      "has_photo": false,
+      "photo_version": 3
+    },
+    {
+      "id": 325913,
+      "name": "API: HUNT",
+      "email": "api-186386-9@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 311677,
+      "name": "API: Альбато (создание соискателя из почты)",
+      "email": "api-186386-7@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 344996,
+      "name": "API: Варвара",
+      "email": "api-186386-11@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 309210,
+      "name": "API: Джун",
+      "email": "api-186386-5@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 322105,
+      "name": "API: Джун (ИИ)",
+      "email": "api-186386-8@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 337067,
+      "name": "API: Джун Саша",
+      "email": "api-186386-10@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 249235,
+      "name": "API: Интеграция Мэтчи",
+      "email": "api-186386-4@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 311397,
+      "name": "API: Нейми тест",
+      "email": "api-186386-6@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 190504,
+      "name": "API: Оргструктура",
+      "email": "api-186386-1@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": null
+    },
+    {
+      "id": 345014,
+      "name": "API: СБшник",
+      "email": "api-186386-12@huntflow.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": 0
+    },
+    {
+      "id": 190462,
+      "name": "Боровик Анастасия",
+      "email": "aborovik@astralinux.ru",
+      "member_type": "owner",
+      "has_photo": true,
+      "photo_version": 2
+    },
+    {
+      "id": 193363,
+      "name": "Курина Анастасия",
+      "email": "akurina@astralinux.ru",
+      "member_type": "owner",
+      "has_photo": true,
+      "photo_version": 0
+    },
+    {
+      "id": 212636,
+      "name": "Сержантов Владимир",
+      "email": "vserzhantov@astralinux.ru",
+      "member_type": "owner",
+      "has_photo": false,
+      "photo_version": null
+    }
+  ]
+}

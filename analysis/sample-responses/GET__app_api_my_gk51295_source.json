@@ -1,0 +1,384 @@
+{
+  "items": [
+    {
+      "id": 446010,
+      "account": 186386,
+      "name": "Artstation",
+      "type": "system",
+      "foreign": "ARTSTATION",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446004,
+      "account": 186386,
+      "name": "Avito",
+      "type": "system",
+      "foreign": "AVITO",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446011,
+      "account": 186386,
+      "name": "Behance",
+      "type": "system",
+      "foreign": "BEHANCE",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446018,
+      "account": 186386,
+      "name": "Career.habr.com",
+      "type": "system",
+      "foreign": "MK",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446012,
+      "account": 186386,
+      "name": "DeviantArt",
+      "type": "system",
+      "foreign": "DEVIANTART",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446014,
+      "account": 186386,
+      "name": "Dribbble",
+      "type": "system",
+      "foreign": "DRIBBLE",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446003,
+      "account": 186386,
+      "name": "Facebook",
+      "type": "system",
+      "foreign": "FACEBOOK",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 497355,
+      "account": 186386,
+      "name": "Farpost",
+      "type": "system",
+      "foreign": "FARPOST",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446023,
+      "account": 186386,
+      "name": "getmatch отклик",
+      "type": "system",
+      "foreign": "GMATER",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446024,
+      "account": 186386,
+      "name": "getmatch подборки",
+      "type": "system",
+      "foreign": "GMATED",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 503256,
+      "account": 186386,
+      "name": "Getmegit",
+      "type": "user",
+      "foreign": null,
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446000,
+      "account": 186386,
+      "name": "Github",
+      "type": "system",
+      "foreign": "GITHUB",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 445994,
+      "account": 186386,
+      "name": "HeadHunter",
+      "type": "system",
+      "foreign": "HH",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446013,
+      "account": 186386,
+      "name": "JobLab",
+      "type": "system",
+      "foreign": "JOBLAB",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 445997,
+      "account": 186386,
+      "name": "LinkedIn",
+      "type": "system",
+      "foreign": "LI",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446015,
+      "account": 186386,
+      "name": "Podbor.io",
+      "type": "system",
+      "foreign": "PODBOR",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 476457,
+      "account": 186386,
+      "name": "Rabota.by",
+      "type": "system",
+      "foreign": "RABOTABY",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446007,
+      "account": 186386,
+      "name": "Rabotanur.kz",
+      "type": "system",
+      "foreign": "RABOTANURKZ",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446020,
+      "account": 186386,
+      "name": "Rabota.ru",
+      "type": "system",
+      "foreign": "RABOTARU",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 445999,
+      "account": 186386,
+      "name": "Robota.ua",
+      "type": "system",
+      "foreign": "RABOTAUA",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 445996,
+      "account": 186386,
+      "name": "SuperJob",
+      "type": "system",
+      "foreign": "SJ",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446005,
+      "account": 186386,
+      "name": "VK",
+      "type": "system",
+      "foreign": "VK",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 445998,
+      "account": 186386,
+      "name": "Work.ua",
+      "type": "system",
+      "foreign": "WORKUA",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446016,
+      "account": 186386,
+      "name": "Yandex.Talents",
+      "type": "system",
+      "foreign": "YT",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446001,
+      "account": 186386,
+      "name": "Агентство",
+      "type": "user",
+      "foreign": null,
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446022,
+      "account": 186386,
+      "name": "Зарплата.ру",
+      "type": "system",
+      "foreign": "ZPRUHH",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 523635,
+      "account": 186386,
+      "name": "ИП Светлана Арнаутова",
+      "type": "user",
+      "foreign": null,
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446009,
+      "account": 186386,
+      "name": "Мэтчи (AmazingHiring)",
+      "type": "system",
+      "foreign": "AH",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446019,
+      "account": 186386,
+      "name": "Отклик с Avito",
+      "type": "system",
+      "foreign": "AVITOR",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 497354,
+      "account": 186386,
+      "name": "Отклик с Farpost.ru",
+      "type": "system",
+      "foreign": "FARPOSTR",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 445995,
+      "account": 186386,
+      "name": "Отклик с HeadHunter",
+      "type": "system",
+      "foreign": "HHR",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446021,
+      "account": 186386,
+      "name": "Отклик с Huntflow.io",
+      "type": "system",
+      "foreign": "EXTERNAL_HUNTFLOW_CAREER_R",
+      "removed": null,
+      "meta": null,
+      "active": false
+    },
+    {
+      "id": 476458,
+      "account": 186386,
+      "name": "Отклик с Rabota.by",
+      "type": "system",
+      "foreign": "RABOTABYR",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 458437,
+      "account": 186386,
+      "name": "Отклик с Rabota.ru",
+      "type": "system",
+      "foreign": "RABOTARUR",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446008,
+      "account": 186386,
+      "name": "Отклик с SuperJob",
+      "type": "system",
+      "foreign": "SJR",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446017,
+      "account": 186386,
+      "name": "Отклик с Хабр Карьеры",
+      "type": "system",
+      "foreign": "MKR",
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 566002,
+      "account": 186386,
+      "name": "\"Приведи друга\"",
+      "type": "user",
+      "foreign": null,
+      "removed": null,
+      "meta": null,
+      "active": true
+    },
+    {
+      "id": 446002,
+      "account": 186386,
+      "name": "Рекомендация",
+      "type": "user",
+      "foreign": null,
+      "removed": null,
+      "meta": null,
+      "active": true
+    }
+  ]
+}

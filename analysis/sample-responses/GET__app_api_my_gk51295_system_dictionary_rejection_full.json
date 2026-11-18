@@ -1,0 +1,265 @@
+{
+  "items": [
+    {
+      "id": 133450,
+      "name": "Вакансия закрыта",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 108338,
+      "name": "Высокие запросы по зарплате",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 108339,
+      "name": "Высокие запросы по зп + удаленный формат работы",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 133790,
+      "name": "Исп.срок не пройден",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 108340,
+      "name": "Кандидат отказался сам",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 133452,
+      "name": "Кандидат передан на другую вакансию",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 134530,
+      "name": "Кандидат считает свою квалификацию недостаточной",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 120092,
+      "name": "Находится за пределами РФ/хочет иметь возможность работать вне РФ",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 123877,
+      "name": "Не в поиске",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 120103,
+      "name": "Не готов к переработкам",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 120090,
+      "name": "Не интересна компания",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 112458,
+      "name": "Не интересны задачи (рассматривает другой стек/задачи)",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 117819,
+      "name": "Не отвечает",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 139396,
+      "name": "Не подходит график работы",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 139408,
+      "name": "Не подходит локация офиса",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 108341,
+      "name": "Неподходяшие личные качества",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 168086,
+      "name": "Не пришел на собеседование ",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 166303,
+      "name": "Не прошел СБ",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 139397,
+      "name": "Не рассматривает полную занятость",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 108342,
+      "name": "Несоответствующая квалификация",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 120102,
+      "name": "Несоответствующая квалификация + высокие зарплатные ожидания",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 120105,
+      "name": "Не справился с выполнением тестового задания",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 120104,
+      "name": "Отказался от выполнения тестового задания",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 110467,
+      "name": "Отказ на этапе резюме",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 134393,
+      "name": "Отказ от оффера",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 136022,
+      "name": "Отмена интервью со стороны кандидата",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 108343,
+      "name": "Перестал отвечать",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 108344,
+      "name": "Плохо выполнено тестовое задание",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 164739,
+      "name": "Подозрение на фрод (обман)",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 108345,
+      "name": "Принял другой оффер",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 108346,
+      "name": "Принял контроффер",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 120091,
+      "name": "Приостановил поиск работы",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 133451,
+      "name": "Рассматривает только гибридный формат работы",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 120089,
+      "name": "Рассматривает только удаленный формат работы",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 131798,
+      "name": "Резерв",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 130569,
+      "name": "Хочет ГПХ/ИП",
+      "active": true,
+      "parent_id": null,
+      "attributes": null
+    },
+    {
+      "id": 150737,
+      "name": "По другой причине",
+      "active": true,
+      "parent_id": null,
+      "attributes": {
+        "is_system": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "workplace_limit": 13,
+  "available_workplaces": 2,
+  "manager_invites": 0,
+  "can_add_workplaces": true,
+  "additional_workplace_limit": 999,
+  "price": 8250.0,
+  "scheduled_end_at": "2027-10-19",
+  "payment_type": "hf_bill",
+  "min_scheduled_addition_date": "2026-11-25",
+  "default_scheduled_addition_date": "2026-11-25"
+}

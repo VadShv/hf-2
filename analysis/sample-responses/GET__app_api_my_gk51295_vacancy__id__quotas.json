@@ -1,0 +1,44 @@
+{
+  "4288523": {
+    "items": [
+      {
+        "id": 2397438,
+        "vacancy_frame": {
+          "id": 2212868,
+          "vacancy": 4288523,
+          "frame_begin": "2026-08-24 10:28:45",
+          "frame_end": null,
+          "hired_applicants": [],
+          "removed": null,
+          "workdays_in_work": 61,
+          "workdays_before_deadline": null,
+          "workdays_after_deadline": null,
+          "next": null,
+          "is_first": false,
+          "is_reopened_parent": false
+        },
+        "vacancy_request": null,
+        "created": "2026-08-24 10:28:45",
+        "changed": "2026-08-24 10:28:45",
+        "applicants_to_hire": 1,
+        "deadline": null,
+        "already_hired": 0,
+        "closed": null,
+        "work_days_in_work": 61,
+        "work_days_after_deadline": null,
+        "work_days_before_deadline": null,
+        "removed": null,
+        "account_info": {
+          "id": 193363,
+          "email": "akurina@astralinux.ru",
+          "name": "Курина Анастасия"
+        },
+        "hired_event_count": 0
+      }
+    ],
+    "total": 1,
+    "total_items": 1,
+    "page": 1,
+    "count": 1
+  }
+}

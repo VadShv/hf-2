@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "AND",
+      "order": 0,
+      "default": true
+    },
+    {
+      "id": "OR",
+      "order": 1,
+      "default": false
+    },
+    {
+      "id": "NOT",
+      "order": 2,
+      "default": false
+    }
+  ]
+}

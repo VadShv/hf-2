@@ -1,0 +1,8 @@
+services:
+  huntflow-clone:
+    build: .
+    ports:
+      - "${PORT:-3360}:3360"
+    environment:
+      - PORT=3360
+    restart: unless-stopped

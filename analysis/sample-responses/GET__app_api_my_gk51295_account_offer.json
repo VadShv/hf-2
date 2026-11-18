@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": 11685,
+      "account": 186386,
+      "name": "Стандартный оффер",
+      "active": true,
+      "template": "<!doctype html>\n<html>\n<head>\n    <meta charset=\"utf-8\">\n</head>\n<style>\n    @page {\n        padding-left: 25pt;\n        padding-top: 25pt;\n        padding-right: 30pt;\n        padding-bottom: 25pt;\n        margin: 0;\n    }\n\n    html, body {\n        font-family: Arial, Helvetica, sans-serif;\n        margin: 0;\n        padding: 0;\n        font-size: 10pt;\n    }\n\n    .logo {\n        height: 75pt;\n    }\n\n    .offer {\n        line-height: 16pt;\n    }\n\n    .offer__header {\n        margin-bottom: 35pt;\n    }\n\n    .offer__header div {\n        padding-bottom: 8pt;\n    }\n\n    .offer__body div {\n        padding-bottom: 8pt;\n    }\n\n    .offer__footer {\n        margin-top: 12pt;\n    }\n\n</style>\n<body>\n{% set values = data.offer['values'] %}\n{% set applicant = data.applicant %}\n\n<div class=\"logo\">\n    {% if data.account.photo %}\n        <img src=\"{{ data.account.photo }}\">\n    {% endif %}\n</div>\n\n<div class=\"offer\">\n    <div class=\"offer__header\">\n        Оффер: {{ values.whom_name }}<br>\n        Должность: {{ values.position_name }}<br>\n        Планируемая дата выхода: {{ values.whom_date }}\n    </div>\n    <div class=\"offer__body\">\n        {{ values.offer_text|safe }}\n    </div>\n    <div class=\"offer__footer\">\n        <div>\n            {{ data.manager.name }}<br>\n\n            {% if data.manager.position %}\n                {{ data.manager.position }}<br>\n            {% endif %}\n        </div>\n    </div>\n</div>\n</body>\n</html>\n",
+      "is_default": true
+    }
+  ]
+}

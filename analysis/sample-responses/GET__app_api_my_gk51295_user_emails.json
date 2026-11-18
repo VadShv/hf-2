@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "email": "vserzhantov@astralinux.ru",
+      "verified": true,
+      "type": "LOGIN_EMAIL",
+      "sso": false
+    },
+    {
+      "email": "vserzhantov@astralinux.ru",
+      "verified": true,
+      "type": "NOTIFICATION_EMAIL"
+    }
+  ]
+}

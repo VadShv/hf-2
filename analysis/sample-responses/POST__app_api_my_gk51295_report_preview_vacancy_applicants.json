@@ -1,0 +1,108 @@
+{
+  "page": 1,
+  "count": 10,
+  "total": 1427,
+  "applicants_total": 14262,
+  "items": [
+    {
+      "id": 57469588,
+      "first_name": "Никита",
+      "middle_name": "Игоревич",
+      "last_name": "Дегтярев",
+      "vacancy_id": 3517781,
+      "multiple": false,
+      "link_title": "Внешний резерв ТАНТОР - ООО \"Тантор Лабс\"",
+      "stay_duration": 753.0
+    },
+    {
+      "id": 39676003,
+      "first_name": "Андрей",
+      "middle_name": "Юрьевич",
+      "last_name": "Казаков",
+      "vacancy_id": 3517781,
+      "multiple": false,
+      "link_title": "Внешний резерв ТАНТОР - ООО \"Тантор Лабс\"",
+      "stay_duration": 751.0
+    },
+    {
+      "id": 39678666,
+      "first_name": "Евгения",
+      "middle_name": null,
+      "last_name": "Курдина",
+      "vacancy_id": 3517781,
+      "multiple": false,
+      "link_title": "Внешний резерв ТАНТОР - ООО \"Тантор Лабс\"",
+      "stay_duration": 751.0
+    },
+    {
+      "id": 40297848,
+      "first_name": "Дмитрий",
+      "middle_name": null,
+      "last_name": "Федоренко",
+      "vacancy_id": 3517781,
+      "multiple": false,
+      "link_title": "Внешний резерв ТАНТОР - ООО \"Тантор Лабс\"",
+      "stay_duration": 751.0
+    },
+    {
+      "id": 41474767,
+      "first_name": "Артем",
+      "middle_name": null,
+      "last_name": "Арефьев",
+      "vacancy_id": 3517781,
+      "multiple": false,
+      "link_title": "Внешний резерв ТАНТОР - ООО \"Тантор Лабс\"",
+      "stay_duration": 747.0
+    },
+    {
+      "id": 40701001,
+      "first_name": "Анастасия",
+      "middle_name": "Сергеевна",
+      "last_name": "Шокова",
+      "vacancy_id": 3531330,
+      "multiple": false,
+      "link_title": "хранилка - Департамент управления персоналом",
+      "stay_duration": 737.0
+    },
+    {
+      "id": 42650652,
+      "first_name": "Лодяков",
+      "middle_name": null,
+      "last_name": "Евгений",
+      "vacancy_id": 3517781,
+      "multiple": false,
+      "link_title": "Внешний резерв ТАНТОР - ООО \"Тантор Лабс\"",
+      "stay_duration": 730.0
+    },
+    {
+      "id": 42814769,
+      "first_name": "Владислав",
+      "middle_name": "Владимирович",
+      "last_name": "Алёшин",
+      "vacancy_id": 3531330,
+      "multiple": false,
+      "link_title": "хранилка - Департамент управления персоналом",
+      "stay_duration": 727.0
+    },
+    {
+      "id": 43283148,
+      "first_name": "Andrey",
+      "middle_name": null,
+      "last_name": "Galkin",
+      "vacancy_id": 3517781,
+      "multiple": false,
+      "link_title": "Внешний резерв ТАНТОР - ООО \"Тантор Лабс\"",
+      "stay_duration": 719.0
+    },
+    {
+      "id": 43282967,
+      "first_name": "Георгий",
+      "middle_name": null,
+      "last_name": "Бяков",
+      "vacancy_id": 3517781,
+      "multiple": false,
+      "link_title": "Внешний резерв ТАНТОР - ООО \"Тантор Лабс\"",
+      "stay_duration": 719.0
+    }
+  ]
+}

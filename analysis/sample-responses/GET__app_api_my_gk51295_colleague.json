@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "user_id": 190462,
+      "account_member_id": 166023,
+      "name": "Боровик Анастасия",
+      "email": "aborovik@astralinux.ru",
+      "member_type": "owner",
+      "head_id": null,
+      "has_photo": true,
+      "photo_version": 2,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 193363,
+      "account_member_id": 168586,
+      "name": "Курина Анастасия",
+      "email": "akurina@astralinux.ru",
+      "member_type": "owner",
+      "head_id": null,
+      "has_photo": true,
+      "photo_version": 0,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 212636,
+      "account_member_id": 185613,
+      "name": "Сержантов Владимир",
+      "email": "vserzhantov@astralinux.ru",
+      "member_type": "owner",
+      "head_id": null,
+      "has_photo": false,
+      "photo_version": null,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 252186,
+      "account_member_id": 221319,
+      "name": "Кристина Башкатова",
+      "email": "kbashkatova@astralinux.ru",
+      "member_type": "manager",
+      "head_id": null,
+      "has_photo": false,
+      "photo_version": 0,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 186385,
+      "account_member_id": 162195,
+      "name": "Марина Воронина",
+      "email": "mvoronina@astralinux.ru",
+      "member_type": "manager",
+      "head_id": null,
+      "has_photo": false,
+      "photo_version": null,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 349541,
+      "account_member_id": 320338,
+      "name": "Обухова Марина",
+      "email": "mobukhova@astralinux.ru",
+      "member_type": "manager",
+      "head_id": null,
+      "has_photo": false,
+      "photo_version": 0,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 209734,
+      "account_member_id": 183021,
+      "name": "Подшивалова Ася",
+      "email": "apodshivalova@astralinux.ru",
+      "member_type": "manager",
+      "head_id": null,
+      "has_photo": false,
+      "photo_version": null,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 189579,
+      "account_member_id": 165112,
+      "name": "Проняева Алла",
+      "email": "apronyaeva@astralinux.ru",
+      "member_type": "manager",
+      "head_id": null,
+      "has_photo": false,
+      "photo_version": null,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 349031,
+      "account_member_id": 319536,
+      "name": "Сошникова Светлана",
+      "email": "ssoshnikova@astralinux.ru",
+      "member_type": "manager",
+      "head_id": null,
+      "has_photo": false,
+      "photo_version": 0,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 189581,
+      "account_member_id": 165114,
+      "name": "Чмыхова Александра",
+      "email": "achmykhova@astralinux.ru",
+      "member_type": "manager",
+      "head_id": null,
+      "has_photo": true,
+      "photo_version": 2,
+      "totp_enabled": false
+    },
+    {
+      "user_id": 312063,
+      "account_member_id": 276994,
+      "name": "Яна Денисова",
+      "email": "idenisova@rubackup.ru",
+      "member_type": "manager",
+      "head_id": null,
+      "has_photo": false,
+      "photo_version": 3,
+      "totp_enabled": false
+    }
+  ],
+  "next_page_cursor": null
+}

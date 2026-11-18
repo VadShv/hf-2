@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": 50365,
+      "account": 186386,
+      "name": "Интервью",
+      "type": "interview",
+      "order": 0,
+      "removed": null
+    },
+    {
+      "id": 50366,
+      "account": 186386,
+      "name": "Тел. интервью",
+      "type": "user",
+      "order": 1,
+      "removed": null
+    },
+    {
+      "id": 50367,
+      "account": 186386,
+      "name": "Скайп-интервью",
+      "type": "user",
+      "order": 2,
+      "removed": null
+    },
+    {
+      "id": 50368,
+      "account": 186386,
+      "name": "Групповое интервью",
+      "type": "user",
+      "order": 3,
+      "removed": null
+    }
+  ]
+}

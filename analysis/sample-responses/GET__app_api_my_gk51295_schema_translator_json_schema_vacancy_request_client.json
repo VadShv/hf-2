@@ -1,0 +1,177 @@
+{
+  "items": [
+    {
+      "schema": {
+        "title": "",
+        "type": "object",
+        "required": [
+          "position",
+          "account_division",
+          "body",
+          "requirements",
+          "applicants_to_hire"
+        ],
+        "properties": {
+          "position": {
+            "title": "Должность",
+            "type": "string",
+            "isNotEmpty": true,
+            "metadata": {
+              "vacancy_field": [
+                "position"
+              ],
+              "is_system": true,
+              "is_archived": false
+            }
+          },
+          "account_division": {
+            "title": "Отдел, подразделение",
+            "type": "number",
+            "isNotEmpty": true,
+            "metadata": {
+              "vacancy_field": [
+                "account_division"
+              ],
+              "is_system": true,
+              "is_archived": false
+            }
+          },
+          "money": {
+            "title": "Зарплата",
+            "type": "string",
+            "isNotEmpty": false,
+            "nullable": true,
+            "metadata": {
+              "vacancy_field": [
+                "money"
+              ],
+              "is_system": true,
+              "is_archived": false
+            }
+          },
+          "body": {
+            "title": "Обязанности кандидата",
+            "type": "string",
+            "isNotEmpty": true,
+            "metadata": {
+              "vacancy_field": [
+                "body"
+              ],
+              "is_archived": false
+            }
+          },
+          "requirements": {
+            "title": "Требования к кандидату",
+            "type": "string",
+            "isNotEmpty": true,
+            "metadata": {
+              "vacancy_field": [
+                "requirements"
+              ],
+              "is_archived": false
+            }
+          },
+          "comment": {
+            "title": "Комментарии",
+            "type": "string",
+            "isNotEmpty": false,
+            "nullable": true,
+            "metadata": {
+              "vacancy_field": [],
+              "is_archived": false
+            }
+          },
+          "applicants_to_hire": {
+            "title": "Сколько человек нужно нанять",
+            "type": "number",
+            "isNotEmpty": true,
+            "initialValue": 1,
+            "metadata": {
+              "vacancy_field": [
+                "applicants_to_hire"
+              ],
+              "is_system": true,
+              "is_archived": false
+            },
+            "default": 1
+          }
+        }
+      },
+      "ui_schema": {
+        "ui:order": [
+          "position",
+          "account_division",
+          "money",
+          "body",
+          "requirements",
+          "comment",
+          "applicants_to_hire"
+        ],
+        "position": {
+          "ui:options": {
+            "required": true,
+            "name": "position"
+          },
+          "ui:widget": "TextWidget"
+        },
+        "account_division": {
+          "ui:options": {
+            "required": true,
+            "name": "account_division",
+            "dictionaryId": "account_division"
+          },
+          "ui:widget": "PartialDictionaryWidget"
+        },
+        "money": {
+          "ui:options": {
+            "required": false,
+            "name": "money"
+          },
+          "ui:widget": "TextWidget"
+        },
+        "body": {
+          "ui:options": {
+            "required": true,
+            "name": "body"
+          },
+          "ui:widget": "HtmlWidget"
+        },
+        "requirements": {
+          "ui:options": {
+            "required": true,
+            "name": "requirements"
+          },
+          "ui:widget": "HtmlWidget"
+        },
+        "comment": {
+          "ui:options": {
+            "required": false,
+            "name": "comment"
+          },
+          "ui:widget": "TextareaWidget"
+        },
+        "applicants_to_hire": {
+          "ui:options": {
+            "required": true,
+            "breakAfter": true,
+            "initialValue": 1,
+            "name": "applicants_to_hire"
+          },
+          "ui:widget": "TextWidget"
+        }
+      },
+      "form_data": {
+        "applicants_to_hire": 1
+      },
+      "name": "Заявка на подбор",
+      "attendee_hint": "",
+      "attendee_required": null,
+      "restricted_for": [],
+      "has_attendees_external": false,
+      "deadline_field": null,
+      "archived": false,
+      "version": 1,
+      "id": 15210
+    }
+  ]
+}

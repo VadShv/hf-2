@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 104875,
+      "member": 162195,
+      "type": "organization",
+      "name": "Отказ",
+      "subject": "К сожалению, не можем пригласить вас на вакансию {{Vacancy.Position}}",
+      "attendees": null,
+      "html": "<div><p>Здравствуйте, {{Applicant.FirstName}}!</p>\n\n<p>К сожалению, сейчас мы не можем пригласить вас на вакансию {{Vacancy.Position}} в нашей компании {{Organization.Name}}. Будем рады пообщаться в будущем по другим вакансиям.</p>\n\n<p>{{User.Sign}}</p></div>",
+      "removed": null,
+      "created": "2023-08-10 12:37:52",
+      "files": [],
+      "followups": [],
+      "order": 1
+    },
+    {
+      "id": 104876,
+      "member": 162195,
+      "type": "organization",
+      "name": "Подтверждение собеседования",
+      "subject": "Собеседование в {{Organization.Name}}",
+      "attendees": null,
+      "html": "<div><p>Здравствуйте, {{Applicant.FirstName}}.</p>\n\n<p>Напоминаю вам, что собеседование на вакансию {{Vacancy.Position}} состоится {{Event.Interview}}.</p>\n\n<p>{{User.Sign}}</p></div>",
+      "removed": null,
+      "created": "2023-08-10 12:37:52",
+      "files": [],
+      "followups": [],
+      "order": 2
+    },
+    {
+      "id": 110197,
+      "member": 162195,
+      "type": "organization",
+      "name": "Приглашение на вакансию",
+      "subject": "Приглашение на вакансию Группы Астра {{Vacancy.Position}}",
+      "attendees": null,
+      "html": "<div><p style=\"margin: 0px;\">Добрый день, {{Applicant.FirstName}}!</p><p style=\"margin: 0px;\"><br></p><p style=\"margin: 0px;\">Меня зовут {{User.Name}}, я менеджер по подбору ПАО «Группа Астра».<br>«Группа Астра» - ведущий разработчик программного обеспечения и ПАК в России.</p><p style=\"margin: 0px;\">Наши продукты: ОС Astra Linux, СУБД Tantor, Astra Automation, Astra Monitoring, Astra Cloud, , Termidesk, RuBackup, RuPost и др.</p><p style=\"margin: 0px;\"><br></p><p style=\"margin: 0px;\">Ваше резюме показалось нам интересным. Ваш опыт, знания и умения, могут быть полезны в работе над проектами нашей компании.</p><p style=\"margin: 0px;\">Предлагаю рассмотреть вакансию {{Vacancy.Position}}</p><p style=\"margin: 0px;\"><br></p><p style=\"margin: 0px;\">(ссылка на вакансию)</p><p style=\"margin: 0px;\"><br></p><p style=\"margin: 0px;\"><br></p><p style=\"margin: 0px;\">Почитать о ГК «Астра» и преимуществах работы у нас можно здесь:</p><ul><li><a href=\"https://career.habr.com/companies/astralinux\" target=\"_blank\">Хабр.Карьера</a>;</li><li><a href=\"https://podolsk.hh.ru/employer/5060211\" target=\"_blank\">страница ГК «Астра» на hh.ru</a>.</li></ul><p style=\"margin: 0px;\">Узнать о жизни в компании:</p><ul><li><a href=\"https://vk.com/gkastra_team\" target=\"_blank\">Вконтакте</a></li><li><a href=\"https://t.me/gkastrateam\" target=\"_blank\">Телеграм</a></li></ul><p style=\"margin: 0px;\">{{User.Sign}}</p></div>",
+      "removed": null,
+      "created": "2026-06-04 11:22:37",
+      "files": [],
+      "followups": [],
+      "order": 3
+    }
+  ]
+}

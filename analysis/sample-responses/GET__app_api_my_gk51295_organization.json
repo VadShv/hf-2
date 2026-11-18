@@ -1,0 +1,25 @@
+{
+  "id": 186386,
+  "created": "2023-08-10 12:37:51",
+  "locale": "ru_RU",
+  "production_calendar": 1,
+  "name": "ГК Астра",
+  "position": null,
+  "photo": null,
+  "nick": "gk51295",
+  "account_type": "organization",
+  "crm": 25808,
+  "email": "mvoronina@astralinux.ru",
+  "phone": null,
+  "source": null,
+  "timezone": "Europe/Moscow",
+  "active": true,
+  "last_action": "2026-11-18 19:44:24",
+  "meta": {
+    "last_account_division_sync": 1696583217
+  },
+  "has_photo": false,
+  "photo_version": null,
+  "email_verified": null,
+  "locked_nick_updating": false
+}

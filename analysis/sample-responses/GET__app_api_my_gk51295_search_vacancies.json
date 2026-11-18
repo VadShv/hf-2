@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": 4288523,
+      "account": 186386,
+      "position": "CCO для Владимира",
+      "company": "ООО \"РусБИТех-Астра\"",
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-07-13 10:30:52",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-08-24 10:28:45",
+      "frame_id": 2212868,
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "members": [
+        185613
+      ],
+      "last_action": "2026-11-12T15:10:07.095679",
+      "managers": [],
+      "watchers": [],
+      "hired": []
+    }
+  ],
+  "total": 1,
+  "page": 1,
+  "count": 100,
+  "found": 1
+}

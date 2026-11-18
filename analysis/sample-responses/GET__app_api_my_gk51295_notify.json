@@ -1,0 +1,7 @@
+{
+  "email": "instant",
+  "birthday": true,
+  "limits": true,
+  "status_expirations": true,
+  "vacancy_requests": true
+}

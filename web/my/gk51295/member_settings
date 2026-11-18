@@ -1,0 +1,1 @@
+{"items": [{"id": "dashboard", "value": true, "schema": {"default": false, "required": false, "type": "boolean"}}]}

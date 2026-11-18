@@ -1,0 +1,7 @@
+node_modules/
+chrome-profile/
+capture/
+*.mitm
+*.har
+.DS_Store
+*.log

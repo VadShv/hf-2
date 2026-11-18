@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 185613,
+      "member": 212636,
+      "member_type": "owner",
+      "head": null,
+      "name": "Сержантов Владимир",
+      "email": "vserzhantov@astralinux.ru",
+      "meta": null,
+      "has_photo": false,
+      "photo_version": null,
+      "permissions": [
+        {
+          "permission": "vacancy",
+          "value": null,
+          "vacancy": 4288523
+        }
+      ]
+    }
+  ]
+}

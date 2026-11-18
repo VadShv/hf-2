@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "all",
+      "order": 0,
+      "default": true
+    },
+    {
+      "id": "experience",
+      "order": 1,
+      "default": false
+    },
+    {
+      "id": "education",
+      "order": 2,
+      "default": false
+    },
+    {
+      "id": "position",
+      "order": 3,
+      "default": false
+    }
+  ]
+}

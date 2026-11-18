@@ -1,0 +1,8 @@
+{
+  "apiUrl": "https://elixir-widget.huntflow.ru/api/",
+  "backendStaticUrl": "https://elixir-widget.huntflow.ru/api/",
+  "socketUrl": "wss://elixir-widget.huntflow.ru/api/socket",
+  "company_id": "02c1b2cb-db4d-4260-8762-768172ace826",
+  "room_id": "7ed3fc30c0f2d50be68986312b302cb8aff086c59f0eb72c06d42695e5749b81",
+  "client_id": "f9addaeef62d8dd4c3e10a4eeccc72d17a0b036e4b546f7a330c5f2e0822a125"
+}

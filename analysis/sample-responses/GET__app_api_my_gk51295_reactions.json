@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "thumb_up",
+      "emoji": "👍",
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "name": "thumb_down",
+      "emoji": "👎",
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "name": "heart",
+      "emoji": "❤️",
+      "is_active": true
+    },
+    {
+      "id": 4,
+      "name": "smiling_face_with_hearts",
+      "emoji": "🥰",
+      "is_active": true
+    },
+    {
+      "id": 5,
+      "name": "crying",
+      "emoji": "😭",
+      "is_active": true
+    },
+    {
+      "id": 6,
+      "name": "party_popper",
+      "emoji": "🎉",
+      "is_active": true
+    },
+    {
+      "id": 7,
+      "name": "fire",
+      "emoji": "🔥",
+      "is_active": true
+    },
+    {
+      "id": 8,
+      "name": "nail_care",
+      "emoji": "💅",
+      "is_active": true
+    }
+  ]
+}

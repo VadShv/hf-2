@@ -1,0 +1,1342 @@
+{
+  "items": [
+    {
+      "id": 4288523,
+      "account": 186386,
+      "position": "CCO для Владимира",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-07-13 10:30:52",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-08-24 10:28:45",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 61,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4205495,
+      "account": 186386,
+      "position": "QA manual",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2026-02-25 15:42:27",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 224987,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-02-25 15:42:27",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"Тантор Лабс\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 51,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3816005,
+      "account": 186386,
+      "position": "UX-писатель",
+      "company": null,
+      "money": "78",
+      "state": "HOLD",
+      "created": "2024-10-11 17:46:29",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 316524,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-10-11 17:46:29",
+      "custom_name_data": {
+        "account_division": [
+          "Департамент дизайна",
+          "Дирекция маркетинга",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 67,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3749752,
+      "account": 186386,
+      "position": "Аналитик/контролер ФОТ",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2024-08-14 20:16:03",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230768,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-08-14 20:16:03",
+      "custom_name_data": {
+        "account_division": [
+          "Отдел бюджетирования и автоматизации",
+          "Дирекция по экономике и финансам",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 47,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4065681,
+      "account": 186386,
+      "position": "Ведущий специалист казначейства",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2025-09-16 18:48:55",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230769,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-09-16 18:48:55",
+      "custom_name_data": {
+        "account_division": [
+          "Казначейство",
+          "Дирекция по экономике и финансам",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 4,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3629039,
+      "account": 186386,
+      "position": "Делопроизводитель",
+      "company": null,
+      "money": "До 74 000 гросс",
+      "state": "HOLD",
+      "created": "2024-03-29 17:36:38",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230492,
+      "account_region": null,
+      "applicants_to_hire": 2,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-03-29 17:36:38",
+      "custom_name_data": {
+        "account_division": [
+          "Канцелярия",
+          "Дирекция по развитию бизнеса",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 176,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4357384,
+      "account": 186386,
+      "position": "Дир. ДВИСа ",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-10-26 21:50:16",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 225001,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-10-26 21:50:16",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"УВЕОН-Облачные технологии\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 16,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4198265,
+      "account": 186386,
+      "position": "Персональный водитель ",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2026-02-16 11:45:08",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-02-16 11:45:08",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 6,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3731519,
+      "account": 186386,
+      "position": "Руководитель отдела налогообложения",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2024-07-24 19:17:08",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230761,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-07-24 19:17:08",
+      "custom_name_data": {
+        "account_division": [
+          "Дирекция по экономике и финансам",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 29,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4244683,
+      "account": 186386,
+      "position": "Руководитель  проектов по внутренней автоматизации (финансовая дирекция)",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-04-28 20:52:24",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230761,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-04-28 20:52:24",
+      "custom_name_data": {
+        "account_division": [
+          "Дирекция по экономике и финансам",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 142,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3918625,
+      "account": 186386,
+      "position": "Уборщица в офис",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2025-02-24 12:13:49",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230483,
+      "account_region": null,
+      "applicants_to_hire": 11,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-02-24 12:13:49",
+      "custom_name_data": {
+        "account_division": [
+          "Административно-хозяйственный отдел",
+          "Административно-хозяйственное управление",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 45,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3743352,
+      "account": 186386,
+      "position": "Финансовый контролер",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2024-08-06 19:03:06",
+      "hidden": false,
+      "priority": 1,
+      "deadline": null,
+      "account_division": 230761,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-08-06 19:03:06",
+      "custom_name_data": {
+        "account_division": [
+          "Дирекция по экономике и финансам",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 35,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4009030,
+      "account": 186386,
+      "position": "CCO / КД",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2025-07-01 14:10:58",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-07-01 14:10:58",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 345,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3969940,
+      "account": 186386,
+      "position": "DBA Старший / Лид (L3)",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2025-05-05 13:22:28",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 224987,
+      "account_region": null,
+      "applicants_to_hire": 3,
+      "account_vacancy_status_group": 9794,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-05-05 13:22:28",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"Тантор Лабс\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 242,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4195305,
+      "account": 186386,
+      "position": "Senior+ Go Developer",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2026-02-12 09:16:14",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 224987,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-02-12 09:16:14",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"Тантор Лабс\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 19,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3995083,
+      "account": 186386,
+      "position": "TeamLead (ЛК)",
+      "company": null,
+      "money": "300-350000 гросс",
+      "state": "OPEN",
+      "created": "2025-06-10 11:35:39",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 335726,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-06-10 11:35:39",
+      "custom_name_data": {
+        "account_division": [
+          "Отдел разработки приложений и сервисов",
+          "Департамент автоматизации и разработки",
+          "Дирекция внедрения и сопровождения",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 358,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4228656,
+      "account": 186386,
+      "position": "Test",
+      "company": null,
+      "money": "100",
+      "state": "OPEN",
+      "created": "2026-04-01 15:11:13",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-04-01 15:11:13",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 161,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4214787,
+      "account": 186386,
+      "position": "Архивариус ( отдел кадров)",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2026-03-12 11:27:26",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230471,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-03-12 11:27:26",
+      "custom_name_data": {
+        "account_division": [
+          "Отдел кадров",
+          "Департамент кадрового администрирования",
+          "Дирекция по персоналу",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 19,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3867319,
+      "account": 186386,
+      "position": "Для Владимира ",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2024-12-18 14:20:54",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 2,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-12-18 14:20:54",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 471,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4254970,
+      "account": 186386,
+      "position": "Епифанова М.",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-05-18 19:41:07",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": 9766,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-05-18 19:41:07",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 130,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4172655,
+      "account": 186386,
+      "position": "Заместитель директора по работе с органами власти",
+      "company": null,
+      "money": "450000",
+      "state": "OPEN",
+      "created": "2026-01-13 13:18:51",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-01-13 13:18:51",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 215,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4283423,
+      "account": 186386,
+      "position": "Интересные Ai кандидаты",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-07-02 18:45:42",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-07-02 18:45:42",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 98,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4251136,
+      "account": 186386,
+      "position": "кадровый резерв",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-05-12 19:00:36",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 224987,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-05-12 19:00:36",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"Тантор Лабс\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 134,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4024368,
+      "account": 186386,
+      "position": "Коммерческий директор",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2025-07-21 10:44:37",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 225113,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-07-21 10:44:37",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"Рубэкап\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 331,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3817206,
+      "account": 186386,
+      "position": "Копирайтер ",
+      "company": null,
+      "money": "110",
+      "state": "HOLD",
+      "created": "2024-10-14 17:28:32",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230650,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-10-14 17:28:32",
+      "custom_name_data": {
+        "account_division": [
+          "Отдел по связям с общественностью",
+          "Департамент внешних коммуникаций",
+          "Дирекция маркетинга",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 93,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4241631,
+      "account": 186386,
+      "position": "Корпоративный секретарь",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-04-23 09:51:07",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-04-23 09:51:07",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 145,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3685071,
+      "account": 186386,
+      "position": "Лидер продукта (Внутренний подбор)",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2024-06-06 15:21:18",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-06-06 15:21:18",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 609,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3913329,
+      "account": 186386,
+      "position": "Младший инженер- программист (Стажер)",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2025-02-17 15:48:00",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230700,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-02-17 15:48:00",
+      "custom_name_data": {
+        "account_division": [
+          "Отдел подготовки дистрибутивов",
+          "Департамент разработки",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 15,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4180641,
+      "account": 186386,
+      "position": "Офис-менеджер ( Казань) ",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2026-01-22 16:42:58",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230483,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-01-22 16:42:58",
+      "custom_name_data": {
+        "account_division": [
+          "Административно-хозяйственный отдел",
+          "Административно-хозяйственное управление",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 9,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3743303,
+      "account": 186386,
+      "position": "Патентовед IT",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2024-08-06 18:04:23",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230641,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-08-06 18:04:23",
+      "custom_name_data": {
+        "account_division": [
+          "Юридический отдел",
+          "Дирекция по правовым вопросам",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 182,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3758337,
+      "account": 186386,
+      "position": "Программа \"Приведи друга\"",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2024-08-23 16:24:21",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-08-23 16:24:21",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 554,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4029094,
+      "account": 186386,
+      "position": "Резерв (все направления)",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2025-07-28 12:19:53",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-07-28 12:19:53",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 326,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4106170,
+      "account": 186386,
+      "position": "Резюме кандидатов ",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2025-11-17 12:32:20",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-11-17 12:32:20",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 248,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3695735,
+      "account": 186386,
+      "position": "Рекрутер",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2024-06-20 13:16:23",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-06-20 13:16:23",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 600,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3739320,
+      "account": 186386,
+      "position": "Руководитель департамента внутреннего обучения",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2024-08-01 12:22:44",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-08-01 12:22:44",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 570,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3746081,
+      "account": 186386,
+      "position": "Руководитель департамента по компенсации и льготам",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2024-08-09 13:32:17",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-08-09 13:32:17",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 564,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4233204,
+      "account": 186386,
+      "position": "Руководитель отдела ИксДата",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-04-08 17:02:36",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 224987,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-04-08 17:02:36",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"Тантор Лабс\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 156,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4125179,
+      "account": 186386,
+      "position": "Руководитель отдела МСФО",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2025-12-17 18:39:49",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230770,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2025-12-17 18:39:49",
+      "custom_name_data": {
+        "account_division": [
+          "Отдел МСФО",
+          "Дирекция по экономике и финансам",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 7,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4208666,
+      "account": 186386,
+      "position": "Старший менеджер по работе с ключевыми клиентами( к Яркину) ",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-03-02 20:29:44",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 398645,
+      "account_region": null,
+      "applicants_to_hire": 3,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-03-02 20:29:44",
+      "custom_name_data": {
+        "account_division": [
+          "Департамент по работе с партнерами и заказчиками (Дир.по раб.с клиент.и парт)",
+          "Дирекция по работе с клиентами и партнерами",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 182,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4173594,
+      "account": 186386,
+      "position": "Старший специалист",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-01-14 11:22:29",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-01-14 11:22:29",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 214,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3602153,
+      "account": 186386,
+      "position": "Тест",
+      "company": null,
+      "money": "100",
+      "state": "OPEN",
+      "created": "2024-02-26 13:41:44",
+      "hidden": true,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 227720,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-02-26 13:41:44",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"Астра Консалтинг\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 677,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4214818,
+      "account": 186386,
+      "position": "Технический писатель",
+      "company": null,
+      "money": null,
+      "state": "HOLD",
+      "created": "2026-03-12 11:52:31",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 224987,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-03-12 11:52:31",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"Тантор Лабс\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 1,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4346465,
+      "account": 186386,
+      "position": "ТОПы (Резерв)",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2026-10-05 14:34:06",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230837,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-10-05 14:34:06",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 31,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 4354924,
+      "account": 186386,
+      "position": "ТРП (увеон) ",
+      "company": null,
+      "money": "до 400000",
+      "state": "OPEN",
+      "created": "2026-10-21 13:33:24",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 225001,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2026-10-21 13:33:24",
+      "custom_name_data": {
+        "account_division": [
+          "ООО \"УВЕОН-Облачные технологии\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 19,
+      "workdays_before_deadline": null
+    },
+    {
+      "id": 3719943,
+      "account": 186386,
+      "position": "Фриланс на подбор",
+      "company": null,
+      "money": null,
+      "state": "OPEN",
+      "created": "2024-07-12 11:11:36",
+      "hidden": false,
+      "priority": 0,
+      "deadline": null,
+      "account_division": 230465,
+      "account_region": null,
+      "applicants_to_hire": 1,
+      "account_vacancy_status_group": null,
+      "account_applicant_offer": 11685,
+      "parent": null,
+      "multiple": false,
+      "children_division": [],
+      "frame_begin": "2024-07-12 11:11:36",
+      "custom_name_data": {
+        "account_division": [
+          "Дирекция по персоналу",
+          "ООО \"РусБИТех-Астра\""
+        ]
+      },
+      "earliest_quota_deadline": null,
+      "workdays_in_work": 584,
+      "workdays_before_deadline": null
+    }
+  ]
+}
